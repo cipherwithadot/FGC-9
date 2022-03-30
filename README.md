@@ -25,3 +25,10 @@ Cartridge: 9x19mm Parabellum
 Action: Closed bolt blowback action
 
 Feed system: Any 9x19mm OEM Glock magazines or Dedicated 25-round 3D-printed box magazines
+
+--------------
+
+## Credits
+
+Designer: JStark1809
+Credits to @Blomgreen for sending me the download :)
