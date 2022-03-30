@@ -30,5 +30,5 @@ Feed system: Any 9x19mm OEM Glock magazines or Dedicated 25-round 3D-printed box
 
 ## Credits
 
-Designer: JStark1809
-Credits to @Blomgreen for sending me the download :)
+Credits To The Designer: JStark1809<br>
+Credits To @Blomgreen for sending me the download :)
