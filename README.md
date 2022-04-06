@@ -27,7 +27,7 @@ Action: Closed bolt blowback action
 Feed system: Any 9x19mm OEM Glock magazines or Dedicated 25-round 3D-printed box magazines
 --------------
 
-Download Link: (It was too big for github)
+Download Link: 
 
 --------------
 
